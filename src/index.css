@@ -1,0 +1,22 @@
+.widthSet {
+  position: relative;
+  width: 40vw;
+  /* height: 50vh; */
+  background-color: #00000042;
+}
+
+.price {
+  text-align: center;
+}
+.addItems {
+  margin: 15px 0px 15px 0px;
+  /* width: 20vw; */
+  /* height: 20vh; */
+  opacity: 0.9;
+  color: #000;
+  background-color: #fff;
+}
+
+.fs-5 {
+  font-size: 1.25rem; /* Adjust font size as needed */
+}
